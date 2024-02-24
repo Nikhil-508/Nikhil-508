@@ -8,7 +8,6 @@
 
 📫 Feel free to reach me through https://www.linkedin.com/in/nikhil-b-/...
 
-😄 Pronouns: [your pronouns]
 
 
 
