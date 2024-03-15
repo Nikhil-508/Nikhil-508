@@ -1,6 +1,6 @@
-👋 Hi, I'm** Nikhil B **from Kerala, India
+👋 Hi, I'm** Nikhil B from Kerala, India
 
-👀 I'm a passionate** MERN stack developer**, currently focus on React and diving into the intricacies of Redux.
+👀 I'm a passionate MERN stack developer, currently focus on React and diving into the intricacies of Redux.
 
 🌱 Always in pursuit of learning and honing my skills in web development.
 
